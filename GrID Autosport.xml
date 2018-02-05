@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile lastplayeddate="2016-04-19T13:38:06" gpasupported="0" lock="0" launchable="1" gkeysdk="0" name="GrID Autosport" gameid="" guid="{98CE4DAC-1756-4765-A453-6A42056465D0}">
+    <description>Combined Pedals enabled by default</description>
+    <target path="C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\GRID AUTOSPORT\GRIDAUTOSPORT.EXE"/>
+    <target path="C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\GRID AUTOSPORT\GRIDAUTOSPORT_AVX.EXE"/>
+    <signature value="InstallLocation" name="" key="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 255220" executable="GRIDAUTOSPORT.EXE"/>
+    <signature value="InstallLocation" name="" key="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 255220" executable="GRIDAUTOSPORT_AVX.EXE"/>
+    <macros>
+      <macro original="true" color="4278246655" hidden="true" name="Button 1" guid="{0BF519FD-32C1-4B0A-8D17-50003ABE033A}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 2" guid="{65496CBD-6F7F-4E82-AB40-6E22D3D87269}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 3" guid="{85560236-64B3-4930-B075-FEC4CBD32035}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 4" guid="{FC0CE304-D5C3-4D7A-A044-6EE1C1CC122F}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 5" guid="{CF22992B-73F8-42CE-9FCB-27A8E41906D9}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 6" guid="{3D706B1C-8A65-4CD3-974E-FFD7314969EA}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 7" guid="{F5E2003F-DC92-46F1-81B6-84B33801AF31}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 8" guid="{93608DE9-E769-4854-958F-9BF72A146996}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 9" guid="{A1455306-25F3-4C83-99A9-67D95B716EC5}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 10" guid="{948DACBE-A788-42FC-AE7B-8CDACD400072}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 11" guid="{21DBEBBD-11C1-4348-970A-33D9DB0838C0}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 12" guid="{970851E6-172F-4751-81EE-2DF47DB016FD}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 13" guid="{150386ED-8BD0-4DDD-A3FC-3264C9CAC351}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 14" guid="{4EBABB15-02D9-42FB-ABB4-B730BD5E4DCF}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 15" guid="{CBA28D0F-E792-45AB-8BCD-4919585AB717}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 16" guid="{1F0C8D17-094C-4F55-9068-16A9FB50F06D}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 17" guid="{6EECC37E-7101-450A-96D8-23AA61BD4FC8}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 18" guid="{0397247A-A2F9-45C8-AB05-E485BE4AF698}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="D-Pad" guid="{AAAFCB2C-C714-43B3-BA41-49EEC7074268}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Steering Wheel" guid="{8BEFBE2F-00F9-4237-BD96-6F6FD566D458}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Accelerator" guid="{B98CDABD-9CE5-4F6C-A372-7A495CF64CA9}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Brake" guid="{A496337F-2796-4239-A567-DAD23BD6A225}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Clutch" guid="{698EAFC8-E599-4F1B-BBB1-7C6136D643FF}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 19" guid="{1DBC97D0-689C-48C5-A626-E7E8009A7FF5}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 20" guid="{BC7F7BCF-C743-416D-9CB4-6B3203CE10FF}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 21" guid="{D30B963A-5325-4BA6-A043-9F187DC150F8}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 22" guid="{325E7453-1069-4574-98A1-3F2AF356359A}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 23" guid="{23B3E7EE-8A34-4385-8059-ECCF7D2481AF}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 24" guid="{50266F3A-808A-43C7-8154-C0D6332C44D0}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro original="true" color="4278246655" hidden="true" name="Button 25" guid="{72FCF75A-B8E1-4427-9297-5A63F2EE95E7}">
+        <natural xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Natural"/>
+      </macro>
+      <macro color="4278246655" hidden="false" name="Left Click" guid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" hidden="false" name="Right Click" guid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" hidden="false" name="Middle Click" guid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" hidden="false" name="Back" guid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" hidden="false" name="Switch Profile" guid="{48E49596-FFC8-43B4-BE82-F37B8BAC7833}" devicecategory="Logitech.Gaming.Mouse">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="switchprofile"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" hidden="false" name="Scroll Left" guid="{B3D05FD0-9BD7-47E8-A257-E1A2299B2545}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollleft"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" hidden="false" name="Scroll Right" guid="{0CC3E236-5CB4-4110-BA43-A97DCC98EDA9}">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="scrollright"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" hidden="false" name="tab-" guid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="TAB"/>
+          <modifier value="LSHIFT"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" hidden="false" name="tab+" guid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="TAB"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" hidden="false" name="tab toe" guid="{5070D719-2A15-4666-AF79-AE5E081AD8BC}">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G700">
+      <assignment original="false" contextid="Button1" shiftstate="1" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+      <assignment original="false" contextid="Button2" shiftstate="1" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment original="false" contextid="Button3" shiftstate="1" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment original="false" contextid="Button4" shiftstate="1" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" backup="false"/>
+      <assignment original="false" contextid="Button11" shiftstate="1" macroguid="{48E49596-FFC8-43B4-BE82-F37B8BAC7833}" backup="false"/>
+      <assignment original="false" contextid="Button12" shiftstate="1" macroguid="{B3D05FD0-9BD7-47E8-A257-E1A2299B2545}" backup="false"/>
+      <assignment original="false" contextid="Button13" shiftstate="1" macroguid="{0CC3E236-5CB4-4110-BA43-A97DCC98EDA9}" backup="false"/>
+      <assignment original="false" contextid="Button5" shiftstate="1" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment original="false" contextid="Button10" shiftstate="1" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" backup="false"/>
+      <assignment original="false" contextid="Button9" shiftstate="1" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" backup="false"/>
+      <assignment original="false" contextid="Button8" shiftstate="1" macroguid="{5070D719-2A15-4666-AF79-AE5E081AD8BC}" backup="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Wheel.G29">
+      <assignment original="true" contextid="Button1" shiftstate="1" macroguid="{0BF519FD-32C1-4B0A-8D17-50003ABE033A}" backup="false"/>
+      <assignment original="true" contextid="Button1" shiftstate="4" macroguid="{0BF519FD-32C1-4B0A-8D17-50003ABE033A}" backup="false"/>
+      <assignment original="true" contextid="Button2" shiftstate="1" macroguid="{65496CBD-6F7F-4E82-AB40-6E22D3D87269}" backup="false"/>
+      <assignment original="true" contextid="Button2" shiftstate="4" macroguid="{65496CBD-6F7F-4E82-AB40-6E22D3D87269}" backup="false"/>
+      <assignment original="true" contextid="Button3" shiftstate="1" macroguid="{85560236-64B3-4930-B075-FEC4CBD32035}" backup="false"/>
+      <assignment original="true" contextid="Button3" shiftstate="4" macroguid="{85560236-64B3-4930-B075-FEC4CBD32035}" backup="false"/>
+      <assignment original="true" contextid="Button4" shiftstate="1" macroguid="{FC0CE304-D5C3-4D7A-A044-6EE1C1CC122F}" backup="false"/>
+      <assignment original="true" contextid="Button4" shiftstate="4" macroguid="{FC0CE304-D5C3-4D7A-A044-6EE1C1CC122F}" backup="false"/>
+      <assignment original="true" contextid="Button5" shiftstate="1" macroguid="{CF22992B-73F8-42CE-9FCB-27A8E41906D9}" backup="false"/>
+      <assignment original="true" contextid="Button5" shiftstate="4" macroguid="{CF22992B-73F8-42CE-9FCB-27A8E41906D9}" backup="false"/>
+      <assignment original="true" contextid="Button6" shiftstate="1" macroguid="{3D706B1C-8A65-4CD3-974E-FFD7314969EA}" backup="false"/>
+      <assignment original="true" contextid="Button6" shiftstate="4" macroguid="{3D706B1C-8A65-4CD3-974E-FFD7314969EA}" backup="false"/>
+      <assignment original="true" contextid="Button7" shiftstate="1" macroguid="{F5E2003F-DC92-46F1-81B6-84B33801AF31}" backup="false"/>
+      <assignment original="true" contextid="Button7" shiftstate="4" macroguid="{F5E2003F-DC92-46F1-81B6-84B33801AF31}" backup="false"/>
+      <assignment original="true" contextid="Button8" shiftstate="1" macroguid="{93608DE9-E769-4854-958F-9BF72A146996}" backup="false"/>
+      <assignment original="true" contextid="Button8" shiftstate="4" macroguid="{93608DE9-E769-4854-958F-9BF72A146996}" backup="false"/>
+      <assignment original="true" contextid="Button9" shiftstate="1" macroguid="{A1455306-25F3-4C83-99A9-67D95B716EC5}" backup="false"/>
+      <assignment original="true" contextid="Button9" shiftstate="4" macroguid="{A1455306-25F3-4C83-99A9-67D95B716EC5}" backup="false"/>
+      <assignment original="true" contextid="Button10" shiftstate="1" macroguid="{948DACBE-A788-42FC-AE7B-8CDACD400072}" backup="false"/>
+      <assignment original="true" contextid="Button10" shiftstate="4" macroguid="{948DACBE-A788-42FC-AE7B-8CDACD400072}" backup="false"/>
+      <assignment original="true" contextid="Button11" shiftstate="1" macroguid="{21DBEBBD-11C1-4348-970A-33D9DB0838C0}" backup="false"/>
+      <assignment original="true" contextid="Button11" shiftstate="4" macroguid="{21DBEBBD-11C1-4348-970A-33D9DB0838C0}" backup="false"/>
+      <assignment original="true" contextid="Button12" shiftstate="1" macroguid="{970851E6-172F-4751-81EE-2DF47DB016FD}" backup="false"/>
+      <assignment original="true" contextid="Button12" shiftstate="4" macroguid="{970851E6-172F-4751-81EE-2DF47DB016FD}" backup="false"/>
+      <assignment original="true" contextid="Button13" shiftstate="1" macroguid="{150386ED-8BD0-4DDD-A3FC-3264C9CAC351}" backup="false"/>
+      <assignment original="true" contextid="Button13" shiftstate="4" macroguid="{150386ED-8BD0-4DDD-A3FC-3264C9CAC351}" backup="false"/>
+      <assignment original="true" contextid="Button14" shiftstate="1" macroguid="{4EBABB15-02D9-42FB-ABB4-B730BD5E4DCF}" backup="false"/>
+      <assignment original="true" contextid="Button14" shiftstate="4" macroguid="{4EBABB15-02D9-42FB-ABB4-B730BD5E4DCF}" backup="false"/>
+      <assignment original="true" contextid="Button15" shiftstate="1" macroguid="{CBA28D0F-E792-45AB-8BCD-4919585AB717}" backup="false"/>
+      <assignment original="true" contextid="Button15" shiftstate="4" macroguid="{CBA28D0F-E792-45AB-8BCD-4919585AB717}" backup="false"/>
+      <assignment original="true" contextid="Button16" shiftstate="1" macroguid="{1F0C8D17-094C-4F55-9068-16A9FB50F06D}" backup="false"/>
+      <assignment original="true" contextid="Button16" shiftstate="4" macroguid="{1F0C8D17-094C-4F55-9068-16A9FB50F06D}" backup="false"/>
+      <assignment original="true" contextid="Button17" shiftstate="1" macroguid="{6EECC37E-7101-450A-96D8-23AA61BD4FC8}" backup="false"/>
+      <assignment original="true" contextid="Button17" shiftstate="4" macroguid="{6EECC37E-7101-450A-96D8-23AA61BD4FC8}" backup="false"/>
+      <assignment original="true" contextid="Button18" shiftstate="1" macroguid="{0397247A-A2F9-45C8-AB05-E485BE4AF698}" backup="false"/>
+      <assignment original="true" contextid="Button18" shiftstate="4" macroguid="{0397247A-A2F9-45C8-AB05-E485BE4AF698}" backup="false"/>
+      <assignment original="true" contextid="Button19" shiftstate="1" macroguid="{1DBC97D0-689C-48C5-A626-E7E8009A7FF5}" backup="false"/>
+      <assignment original="true" contextid="Button19" shiftstate="4" macroguid="{1DBC97D0-689C-48C5-A626-E7E8009A7FF5}" backup="false"/>
+      <assignment original="true" contextid="Button20" shiftstate="1" macroguid="{BC7F7BCF-C743-416D-9CB4-6B3203CE10FF}" backup="false"/>
+      <assignment original="true" contextid="Button20" shiftstate="4" macroguid="{BC7F7BCF-C743-416D-9CB4-6B3203CE10FF}" backup="false"/>
+      <assignment original="true" contextid="Button21" shiftstate="1" macroguid="{D30B963A-5325-4BA6-A043-9F187DC150F8}" backup="false"/>
+      <assignment original="true" contextid="Button21" shiftstate="4" macroguid="{D30B963A-5325-4BA6-A043-9F187DC150F8}" backup="false"/>
+      <assignment original="true" contextid="Button22" shiftstate="1" macroguid="{325E7453-1069-4574-98A1-3F2AF356359A}" backup="false"/>
+      <assignment original="true" contextid="Button22" shiftstate="4" macroguid="{325E7453-1069-4574-98A1-3F2AF356359A}" backup="false"/>
+      <assignment original="true" contextid="Button23" shiftstate="1" macroguid="{23B3E7EE-8A34-4385-8059-ECCF7D2481AF}" backup="false"/>
+      <assignment original="true" contextid="Button23" shiftstate="4" macroguid="{23B3E7EE-8A34-4385-8059-ECCF7D2481AF}" backup="false"/>
+      <assignment original="true" contextid="Button24" shiftstate="1" macroguid="{50266F3A-808A-43C7-8154-C0D6332C44D0}" backup="false"/>
+      <assignment original="true" contextid="Button24" shiftstate="4" macroguid="{50266F3A-808A-43C7-8154-C0D6332C44D0}" backup="false"/>
+      <assignment original="true" contextid="Button25" shiftstate="1" macroguid="{72FCF75A-B8E1-4427-9297-5A63F2EE95E7}" backup="false"/>
+      <assignment original="true" contextid="Button25" shiftstate="4" macroguid="{72FCF75A-B8E1-4427-9297-5A63F2EE95E7}" backup="false"/>
+      <assignment original="true" contextid="Pov1" shiftstate="1" macroguid="{AAAFCB2C-C714-43B3-BA41-49EEC7074268}" backup="false"/>
+      <assignment original="true" contextid="Pov1" shiftstate="4" macroguid="{AAAFCB2C-C714-43B3-BA41-49EEC7074268}" backup="false"/>
+      <assignment original="true" contextid="Axis1" shiftstate="1" macroguid="{8BEFBE2F-00F9-4237-BD96-6F6FD566D458}" backup="false"/>
+      <assignment original="true" contextid="Axis1" shiftstate="4" macroguid="{8BEFBE2F-00F9-4237-BD96-6F6FD566D458}" backup="false"/>
+      <assignment original="true" contextid="Axis3" shiftstate="1" macroguid="{B98CDABD-9CE5-4F6C-A372-7A495CF64CA9}" backup="false"/>
+      <assignment original="true" contextid="Axis3" shiftstate="4" macroguid="{B98CDABD-9CE5-4F6C-A372-7A495CF64CA9}" backup="false"/>
+      <assignment original="true" contextid="Axis4" shiftstate="1" macroguid="{A496337F-2796-4239-A567-DAD23BD6A225}" backup="false"/>
+      <assignment original="true" contextid="Axis4" shiftstate="4" macroguid="{A496337F-2796-4239-A567-DAD23BD6A225}" backup="false"/>
+      <assignment original="true" contextid="Axis5" shiftstate="1" macroguid="{698EAFC8-E599-4F1B-BBB1-7C6136D643FF}" backup="false"/>
+      <assignment original="true" contextid="Axis5" shiftstate="4" macroguid="{698EAFC8-E599-4F1B-BBB1-7C6136D643FF}" backup="false"/>
+    </assignments>
+    <assignments devicecategory="Logitech.Gaming.Wheel.G920">
+      <assignment original="true" contextid="Button1" shiftstate="1" macroguid="{0BF519FD-32C1-4B0A-8D17-50003ABE033A}" backup="false"/>
+      <assignment original="true" contextid="Button1" shiftstate="4" macroguid="{0BF519FD-32C1-4B0A-8D17-50003ABE033A}" backup="false"/>
+      <assignment original="true" contextid="Button2" shiftstate="1" macroguid="{65496CBD-6F7F-4E82-AB40-6E22D3D87269}" backup="false"/>
+      <assignment original="true" contextid="Button2" shiftstate="4" macroguid="{65496CBD-6F7F-4E82-AB40-6E22D3D87269}" backup="false"/>
+      <assignment original="true" contextid="Button3" shiftstate="1" macroguid="{85560236-64B3-4930-B075-FEC4CBD32035}" backup="false"/>
+      <assignment original="true" contextid="Button3" shiftstate="4" macroguid="{85560236-64B3-4930-B075-FEC4CBD32035}" backup="false"/>
+      <assignment original="true" contextid="Button4" shiftstate="1" macroguid="{FC0CE304-D5C3-4D7A-A044-6EE1C1CC122F}" backup="false"/>
+      <assignment original="true" contextid="Button4" shiftstate="4" macroguid="{FC0CE304-D5C3-4D7A-A044-6EE1C1CC122F}" backup="false"/>
+      <assignment original="true" contextid="Button5" shiftstate="1" macroguid="{CF22992B-73F8-42CE-9FCB-27A8E41906D9}" backup="false"/>
+      <assignment original="true" contextid="Button5" shiftstate="4" macroguid="{CF22992B-73F8-42CE-9FCB-27A8E41906D9}" backup="false"/>
+      <assignment original="true" contextid="Button6" shiftstate="1" macroguid="{3D706B1C-8A65-4CD3-974E-FFD7314969EA}" backup="false"/>
+      <assignment original="true" contextid="Button6" shiftstate="4" macroguid="{3D706B1C-8A65-4CD3-974E-FFD7314969EA}" backup="false"/>
+      <assignment original="true" contextid="Button7" shiftstate="1" macroguid="{F5E2003F-DC92-46F1-81B6-84B33801AF31}" backup="false"/>
+      <assignment original="true" contextid="Button7" shiftstate="4" macroguid="{F5E2003F-DC92-46F1-81B6-84B33801AF31}" backup="false"/>
+      <assignment original="true" contextid="Button8" shiftstate="1" macroguid="{93608DE9-E769-4854-958F-9BF72A146996}" backup="false"/>
+      <assignment original="true" contextid="Button8" shiftstate="4" macroguid="{93608DE9-E769-4854-958F-9BF72A146996}" backup="false"/>
+      <assignment original="true" contextid="Button9" shiftstate="1" macroguid="{A1455306-25F3-4C83-99A9-67D95B716EC5}" backup="false"/>
+      <assignment original="true" contextid="Button9" shiftstate="4" macroguid="{A1455306-25F3-4C83-99A9-67D95B716EC5}" backup="false"/>
+      <assignment original="true" contextid="Button10" shiftstate="1" macroguid="{948DACBE-A788-42FC-AE7B-8CDACD400072}" backup="false"/>
+      <assignment original="true" contextid="Button10" shiftstate="4" macroguid="{948DACBE-A788-42FC-AE7B-8CDACD400072}" backup="false"/>
+      <assignment original="true" contextid="Button11" shiftstate="1" macroguid="{21DBEBBD-11C1-4348-970A-33D9DB0838C0}" backup="false"/>
+      <assignment original="true" contextid="Button11" shiftstate="4" macroguid="{21DBEBBD-11C1-4348-970A-33D9DB0838C0}" backup="false"/>
+      <assignment original="true" contextid="Button12" shiftstate="1" macroguid="{970851E6-172F-4751-81EE-2DF47DB016FD}" backup="false"/>
+      <assignment original="true" contextid="Button12" shiftstate="4" macroguid="{970851E6-172F-4751-81EE-2DF47DB016FD}" backup="false"/>
+      <assignment original="true" contextid="Button13" shiftstate="1" macroguid="{150386ED-8BD0-4DDD-A3FC-3264C9CAC351}" backup="false"/>
+      <assignment original="true" contextid="Button13" shiftstate="4" macroguid="{150386ED-8BD0-4DDD-A3FC-3264C9CAC351}" backup="false"/>
+      <assignment original="true" contextid="Button14" shiftstate="1" macroguid="{4EBABB15-02D9-42FB-ABB4-B730BD5E4DCF}" backup="false"/>
+      <assignment original="true" contextid="Button14" shiftstate="4" macroguid="{4EBABB15-02D9-42FB-ABB4-B730BD5E4DCF}" backup="false"/>
+      <assignment original="true" contextid="Button15" shiftstate="1" macroguid="{CBA28D0F-E792-45AB-8BCD-4919585AB717}" backup="false"/>
+      <assignment original="true" contextid="Button15" shiftstate="4" macroguid="{CBA28D0F-E792-45AB-8BCD-4919585AB717}" backup="false"/>
+      <assignment original="true" contextid="Button16" shiftstate="1" macroguid="{1F0C8D17-094C-4F55-9068-16A9FB50F06D}" backup="false"/>
+      <assignment original="true" contextid="Button16" shiftstate="4" macroguid="{1F0C8D17-094C-4F55-9068-16A9FB50F06D}" backup="false"/>
+      <assignment original="true" contextid="Button17" shiftstate="1" macroguid="{6EECC37E-7101-450A-96D8-23AA61BD4FC8}" backup="false"/>
+      <assignment original="true" contextid="Button17" shiftstate="4" macroguid="{6EECC37E-7101-450A-96D8-23AA61BD4FC8}" backup="false"/>
+      <assignment original="true" contextid="Button18" shiftstate="1" macroguid="{0397247A-A2F9-45C8-AB05-E485BE4AF698}" backup="false"/>
+      <assignment original="true" contextid="Button18" shiftstate="4" macroguid="{0397247A-A2F9-45C8-AB05-E485BE4AF698}" backup="false"/>
+      <assignment original="true" contextid="Pov1" shiftstate="1" macroguid="{AAAFCB2C-C714-43B3-BA41-49EEC7074268}" backup="false"/>
+      <assignment original="true" contextid="Pov1" shiftstate="4" macroguid="{AAAFCB2C-C714-43B3-BA41-49EEC7074268}" backup="false"/>
+      <assignment original="true" contextid="Axis1" shiftstate="1" macroguid="{8BEFBE2F-00F9-4237-BD96-6F6FD566D458}" backup="false"/>
+      <assignment original="true" contextid="Axis1" shiftstate="4" macroguid="{8BEFBE2F-00F9-4237-BD96-6F6FD566D458}" backup="false"/>
+      <assignment original="true" contextid="Axis3" shiftstate="1" macroguid="{B98CDABD-9CE5-4F6C-A372-7A495CF64CA9}" backup="false"/>
+      <assignment original="true" contextid="Axis3" shiftstate="4" macroguid="{B98CDABD-9CE5-4F6C-A372-7A495CF64CA9}" backup="false"/>
+      <assignment original="true" contextid="Axis4" shiftstate="1" macroguid="{A496337F-2796-4239-A567-DAD23BD6A225}" backup="false"/>
+      <assignment original="true" contextid="Axis4" shiftstate="4" macroguid="{A496337F-2796-4239-A567-DAD23BD6A225}" backup="false"/>
+      <assignment original="true" contextid="Axis5" shiftstate="1" macroguid="{698EAFC8-E599-4F1B-BBB1-7C6136D643FF}" backup="false"/>
+      <assignment original="true" contextid="Axis5" shiftstate="4" macroguid="{698EAFC8-E599-4F1B-BBB1-7C6136D643FF}" backup="false"/>
+    </assignments>
+    <pointers>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G700s">
+        <mode shiftstate="1">
+          <reportrate rate="500"/>
+          <powermode value="2"/>
+          <dpitable defaultindex="0" syncxy="1" shiftindex="0">
+            <dpi enabled="1" x="400" y="400"/>
+            <dpi enabled="0" x="800" y="800"/>
+            <dpi enabled="0" x="1200" y="1200"/>
+            <dpi enabled="0" x="1600" y="1600"/>
+            <dpi enabled="0" x="3200" y="3200"/>
+          </dpitable>
+          <movement acceleration="0" speed="-1"/>
+        </mode>
+      </pointer>
+    </pointers>
+    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+      <mode shiftstate="1" color="#ffffff"/>
+      <mode shiftstate="2" color="#ffffff"/>
+      <mode shiftstate="3" color="#ffffff"/>
+    </backlight>
+    <axisDynamics devicemodel="Logitech.Gaming.Wheel.G29"><![CDATA[{"Axis4":{"axis":4,"deadZone":0,"inverted":false,"operatingRange":100,"sensitivity":50}}]]></axisDynamics>
+    <axisDynamics devicemodel="Logitech.Gaming.Wheel.G920"><![CDATA[{"Axis4":{"axis":4,"deadZone":0,"inverted":false,"operatingRange":100,"sensitivity":50}}]]></axisDynamics>
+    <forceFeedbackOptions devicemodel="Logitech.Gaming.Wheel.G29"><![CDATA[{"centerSpringEnabled":false,"centerSpringStrength":10,"damperStrength":100,"overallStrength":100,"springStrength":100}]]></forceFeedbackOptions>
+    <forceFeedbackOptions devicemodel="Logitech.Gaming.Wheel.G920"><![CDATA[{"centerSpringEnabled":false,"centerSpringStrength":100,"damperStrength":100,"overallStrength":100,"springStrength":100}]]></forceFeedbackOptions>
+    <wheelOptions devicemodel="Logitech.Gaming.Wheel.G29"><![CDATA[{"combinePedals":true,"operatingRange":900}]]></wheelOptions>
+    <wheelOptions devicemodel="Logitech.Gaming.Wheel.G920"><![CDATA[{"combinePedals":true,"operatingRange":900}]]></wheelOptions>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>
